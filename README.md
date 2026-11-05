@@ -23,6 +23,14 @@ Our App does not knowingly collect personally identifiable information from chil
 ## 4. Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes.
 
+## Firebase Crashlytics
+We use Firebase Crashlytics, a Google service, to find and fix crashes. When the app crashes, it may send crash details, device information such as model and OS version, and an app installation identifier. We do not use this data for advertising.
+
+## Your advertising choices
+If you are in the European Economic Area or the United Kingdom, we ask for your consent before showing ads through Google AdMob. You can change your choice at any time in the app under Settings → Ad Privacy Choices.
+
+Sudoku Master stores your settings, statistics and saved games only on your device. Uninstalling the app deletes them. Purchases are managed by Google Play and can be restored with the same Google account.
+
 ## 5. Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
 examcache@gmail.com
